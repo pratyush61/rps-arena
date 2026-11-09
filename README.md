@@ -1,6 +1,6 @@
 # RPS Arena — Rock Paper Scissors
 
-A responsive browser-based Rock Paper Scissors game where you play against the computer, view the round result, and track your score.
+A responsive browser-based Rock Paper Scissors game where you play against the computer, view the round result, and track your scores.
 
 ## Live Demo
 
